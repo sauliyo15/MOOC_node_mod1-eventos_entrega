@@ -1,5 +1,5 @@
-
-const EventEmitter = require('events');
+//Importamos el modulo events para la gestion de eventos
+const EventEmitter = require('./events');
 
 
 // Diferencia de temperatura permitida entre la temperatura real y la ideal.
